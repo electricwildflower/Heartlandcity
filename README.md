@@ -7,4 +7,4 @@ This is the first major city map for minetest i have created, you will find curr
 2. Heartland City - The city is periodically being built
 3. Mods - Includes all of the Mods i am using for the city
 
-You are welcome to download the city and station and modify for your own needs, give us a shout out somewhere if you use any part of the city. 
+You are welcome to download the city and station and modify for your own needs, give us a shout out somewhere if you use any part of the city. Check back every so often for updated versions of the city with more stuff added.
